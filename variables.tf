@@ -151,7 +151,7 @@ variable "vs_cidr_block" {
 variable "dns_name" {
   description = "The name of DNS."
   type        = string
-  default     = "aliyun.com"
+  default     = "starmove.com"
 }
 
 variable "ga_duration" {
